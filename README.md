@@ -18,7 +18,7 @@
 
 | Proyecto | Cliente | Descripción | Stack |
 |---|---|---|---|
-| 🏢 **[Sistema CRM](https://github.com/ArcGabicho/sistema-crm-compina)** | COMPINA S.A.C. | Gestión de 6000+ clientes. | Next.js, ASP.NET Core, MSSQL, Azure |
+| 🏢 **[Sistema CRM](https://github.com/ArcGabicho/sistema-crm-compipro)** | COMPINA S.A.C. | Gestión de 6000+ clientes. | Next.js, ASP.NET Core, MSSQL, Azure |
 | 🤖 **[Sistema RPA](https://github.com/ArcGabicho/sistema-rpa-dds)** | Data Discovery Solutions S.A.C. | Bots para automatización empresarial. | Next.js, ASP.NET Core, MSSQL, Azure |
 | 📝 **[Sistema CMS](https://github.com/ArcGabicho/sistema-cms-ibgroup)** | IBGroup S.A.C. | Gestión de contenidos para blog corporativo. | Next.js, ASP.NET Core, MSSQL, Azure |
 | 🚚 **[Sistema GGR](https://github.com/ArcGabicho/sistema-ggr-hpd)** | HPD Glass Group S.A.C. | Guías de remisión y despacho de mercancía. | Next.js, ASP.NET Core, MSSQL, Azure |
@@ -36,10 +36,10 @@ mindmap
       Redux Toolkit
       Framer Motion
       Socket.io
-      Prisma
+      Blazor
     Backend
       C#
-      ASP.NET Core
+      ASP.NET Core Web Api
       Entity Framework Core
       Microsoft SQL Server
       .NET Aspire
@@ -48,13 +48,11 @@ mindmap
       Redis
     Desktop
       C#
-      WPF
-      MAUI
+      AvaloniaUI
       Microsoft SQL Server
     Mobile
       C#
-      MAUI
-      iOS
+      Avalonia Mobile
       Microsoft SQL Server
     DevOps
       Windows Server
@@ -74,8 +72,9 @@ mindmap
       Azure AI Foundry
       OpenAI API
       Github Copilot
-      OpenCode
+      Open Code
+      Claude Code
 ```
 
 > [!NOTE]
-> No solo escribo código; construyo ecosistemas — mi objetivo es desarrollar sistemas, plataformas y aplicaciones que eleven el nivel de innovación y tecnología de la próxima generación de empresas en Perú.
+> Cada proyecto tiene su propia licencia. Revisa el archivo `LICENSE` del repositorio correspondiente antes de usar, copiar o distribuir el código.
