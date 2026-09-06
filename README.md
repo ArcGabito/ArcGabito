@@ -29,17 +29,16 @@
 mindmap
   root((Gabicho))
     Frontend
+      Astro
+      Blazor
       Next.js
-      Shadcn UI
       TypeScript
       Tailwind CSS
       Redux Toolkit
       Framer Motion
-      Socket.io
-      Blazor
     Backend
       C#
-      ASP.NET Core Web Api
+      ASP.NET Core
       Entity Framework Core
       Microsoft SQL Server
       .NET Aspire
@@ -67,7 +66,6 @@ mindmap
       Azure
       Cloudflare
       Vercel
-      Prisma
     IA
       Azure AI Foundry
       OpenAI API
