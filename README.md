@@ -47,11 +47,13 @@ mindmap
       Redis
     Desktop
       C#
-      AvaloniaUI
+      .NET
+      WPF
+      MAUI
       Microsoft SQL Server
     Mobile
       C#
-      Avalonia Mobile
+      MAUI
       Microsoft SQL Server
     DevOps
       Windows Server
