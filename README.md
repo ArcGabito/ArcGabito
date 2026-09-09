@@ -9,10 +9,10 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 🌀 **[Vortex ERP](https://github.com/ArcGabicho/vortex-erp)** | ERP generalista con IA para automatizar procesos administrativos y optimizar la gestión operativa. | C#, AvaloniaUI, MSSQL, Azure |
-| 🌀 **[Vortex CRM](https://github.com/ArcGabicho/vortex-crm)** | CRM con IA, automatización de ventas, seguimiento inteligente y analítica avanzada. | C#, AvaloniaUI, MSSQL, Azure |
-| 🌀 **[Vortex WMS](https://github.com/ArcGabicho/vortex-wms)** | WMS para logística de alto volumen: control de inventarios, picking, tracking. | C#, AvaloniaUI, MSSQL, Azure |
-| 🌀 **[Vortex POS](https://github.com/ArcGabicho/vortex-pos)** | Punto de venta modular con inventario, facturación, reportes en tiempo real. | C#, AvaloniaUI, MSSQL, Azure |
+| 🌀 **[Vortex ERP](https://github.com/ArcGabicho/vortex-erp)** | ERP generalista con IA para automatizar procesos administrativos y optimizar la gestión operativa. | C#, MAUI, MSSQL, Azure |
+| 🌀 **[Vortex CRM](https://github.com/ArcGabicho/vortex-crm)** | CRM con IA, automatización de ventas, seguimiento inteligente y analítica avanzada. | C#, MAUI, MSSQL, Azure |
+| 🌀 **[Vortex WMS](https://github.com/ArcGabicho/vortex-wms)** | WMS para logística de alto volumen: control de inventarios, picking, tracking. | C#, MAUI, MSSQL, Azure |
+| 🌀 **[Vortex POS](https://github.com/ArcGabicho/vortex-pos)** | Punto de venta modular con inventario, facturación, reportes en tiempo real. | C#, MAUI, MSSQL, Azure |
 
 ### Sistemas Empresariales
 
