@@ -18,7 +18,7 @@
 
 | Proyecto | Cliente | Descripción | Stack |
 |---|---|---|---|
-| 🏢 **[Sistema CRM](https://github.com/ArcGabicho/sistema-crm-compipro)** | COMPINA S.A.C. | Gestión de 5000+ clientes. | Next.js, ASP.NET Core, MSSQL, Azure |
+| 🏢 **[Sistema CRM](https://github.com/ArcGabicho/sistema-crm-compipro)** | COMPIPRO S.A.C. | Gestión de 5000+ clientes. | Next.js, ASP.NET Core, MSSQL, Azure |
 | 🤖 **[Sistema RPA](https://github.com/ArcGabicho/sistema-rpa-dds)** | Data Discovery Solutions S.A.C. | Bots para automatización empresarial. | Next.js, ASP.NET Core, MSSQL, Azure |
 | 📝 **[Sistema CMS](https://github.com/ArcGabicho/sistema-cms-ibgroup)** | IBGroup S.A.C. | Gestión de contenidos para blog corporativo. | Next.js, ASP.NET Core, MSSQL, Azure |
 | 🚚 **[Sistema GGR](https://github.com/ArcGabicho/sistema-ggr-hpd)** | HPD Glass Group S.A.C. | Guías de remisión y despacho de mercancía. | Next.js, ASP.NET Core, MSSQL, Azure |
