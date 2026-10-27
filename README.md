@@ -29,7 +29,6 @@
 mindmap
   root((Gabicho))
     Frontend
-      Astro
       Blazor
       Next.js
       TypeScript
@@ -41,14 +40,10 @@ mindmap
       ASP.NET Core
       Entity Framework Core
       Microsoft SQL Server
-      .NET Aspire
-      gRPC
       xUnit
       Redis
     Desktop
       C#
-      .NET
-      WPF
       MAUI
       Microsoft SQL Server
     Mobile
@@ -56,8 +51,6 @@ mindmap
       MAUI
       Microsoft SQL Server
     DevOps
-      Windows Server
-      Ubuntu Server
       Powershell
       Bash
       Docker
@@ -69,11 +62,10 @@ mindmap
       Cloudflare
       Vercel
     IA
-      Azure AI Foundry
-      OpenAI API
-      Claude Code
-      Open Code
-      Claude Code
+      Python
+      FastAPI
+      Pytorch
+      Hugging Face
 ```
 
 > [!NOTE]
