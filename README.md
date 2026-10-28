@@ -66,6 +66,7 @@ mindmap
       FastAPI
       Pytorch
       Hugging Face
+      Ollama
 ```
 
 > [!NOTE]
