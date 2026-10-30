@@ -23,17 +23,24 @@
 | 📝 **[Sistema CMS](https://github.com/ArcGabito/sistema-cms-ibgroup)** | IBGroup S.A.C. | Gestión de contenidos para blog corporativo. | Next.js, ASP.NET Core, MSSQL, Azure |
 | 🚚 **[Sistema GGR](https://github.com/ArcGabito/sistema-ggr-hpd)** | HPD Glass Group S.A.C. | Guías de remisión y despacho de mercancía. | Next.js, ASP.NET Core, MSSQL, Azure |
 
+### Automatización Inteligente
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| 🤖 **[Invoice Bot](https://github.com/ArcGabito/invoice-bot)** | Lectura y extracción automática de datos de facturas mediante IA. | Node.js, SQLite, IA |
+| 📄 **[Document Bot](https://github.com/ArcGabito/document-bot)** | Clasificación y extracción inteligente de información de documentos. | Python, SQLite, IA |
+| 📧 **[Email Bot](https://github.com/ArcGabito/email-bot)** | Clasificación, procesamiento y enrutamiento automático de correos electrónicos. | Node.js, SQLite, IA |
+| 🏦 **[Bank Bot](https://github.com/ArcGabito/bank-bot)** | Conciliación bancaria automática mediante procesamiento y emparejamiento de transacciones. | Python, Pandas, SQLite, IA |
+
 ## Stack Principal
 
 ```mermaid
 mindmap
   root((Gabicho))
     Frontend
-      Blazor
       Next.js
       TypeScript
       Tailwind CSS
-      Redux Toolkit
       Framer Motion
     Backend
       C#
