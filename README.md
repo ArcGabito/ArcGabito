@@ -1,8 +1,8 @@
 ![Banner](./assets/portada.gif)
 
 <div align="center">
-  <img height="200em" src="https://gh-readme-stats.vercel.app/api?username=ArcGabito&show_icons=true&theme=dark&hide_border=true" />
-  <img height="200em" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ArcGabito&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=ArcGabito&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ArcGabito&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </div>
 
 ### Vortex Suite
