@@ -32,5 +32,7 @@
 | 📧 **[Email Bot](https://github.com/ArcGabito/email-bot)** | Clasificación, procesamiento y enrutamiento automático de correos electrónicos. | TypeScript, SQL Server, Ollama |
 | 🏦 **[Bank Bot](https://github.com/ArcGabito/bank-bot)** | Conciliación bancaria automática mediante procesamiento y emparejamiento de transacciones. | Python, Pandas, SQL Server, Ollama | 
 
+---
+
 > [!NOTE]
 > Cada proyecto tiene su propia licencia. Revisa el archivo `LICENSE` del repositorio correspondiente antes de usar, copiar o distribuir el código.
