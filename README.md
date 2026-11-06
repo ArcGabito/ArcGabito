@@ -2,7 +2,7 @@
 
 <div align="center">
   <img width="56%" src="https://gh-readme-stats.vercel.app/api?username=ArcGabito&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
-  <img width="42.5%" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ArcGabito&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <img width="43.4%" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ArcGabito&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </div>
 
 ### Vortex Suite
