@@ -27,54 +27,12 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 🤖 **[Invoice Bot](https://github.com/ArcGabito/invoice-bot)** | Lectura y extracción automática de datos de facturas mediante IA. | Node.js, SQLite, IA |
-| 📄 **[Document Bot](https://github.com/ArcGabito/document-bot)** | Clasificación y extracción inteligente de información de documentos. | Python, SQLite, IA |
-| 📧 **[Email Bot](https://github.com/ArcGabito/email-bot)** | Clasificación, procesamiento y enrutamiento automático de correos electrónicos. | Node.js, SQLite, IA |
-| 🏦 **[Bank Bot](https://github.com/ArcGabito/bank-bot)** | Conciliación bancaria automática mediante procesamiento y emparejamiento de transacciones. | Python, Pandas, SQLite, IA |
+| 🤖 **[Invoice Bot](https://github.com/ArcGabito/invoice-bot)** | Lectura y extracción automática de datos de facturas mediante IA. | TypeScript, SQL Server, Ollama |
+| 📄 **[Document Bot](https://github.com/ArcGabito/document-bot)** | Clasificación y extracción inteligente de información de documentos. | Python, SQL Server, Ollama |
+| 📧 **[Email Bot](https://github.com/ArcGabito/email-bot)** | Clasificación, procesamiento y enrutamiento automático de correos electrónicos. | TypeScript, SQL Server, Ollama |
+| 🏦 **[Bank Bot](https://github.com/ArcGabito/bank-bot)** | Conciliación bancaria automática mediante procesamiento y emparejamiento de transacciones. | Python, Pandas, SQL Server, Ollama |
 
-## Stack Principal
-
-```mermaid
-mindmap
-  root((Gabicho))
-    Frontend
-      Next.js
-      TypeScript
-      Tailwind CSS
-      Framer Motion
-    Backend
-      C#
-      ASP.NET Core
-      Entity Framework Core
-      Microsoft SQL Server
-      xUnit
-      Redis
-    Desktop
-      C#
-      MAUI
-      Microsoft SQL Server
-    Mobile
-      C#
-      MAUI
-      Microsoft SQL Server
-    DevOps
-      Powershell
-      Bash
-      Docker
-      Docker Compose
-      Github Actions
-      Git
-    Cloud Computing
-      Azure
-      Cloudflare
-      Vercel
-    IA
-      Python
-      FastAPI
-      Pytorch
-      Hugging Face
-      Ollama
-```
+# 
 
 > [!NOTE]
 > Cada proyecto tiene su propia licencia. Revisa el archivo `LICENSE` del repositorio correspondiente antes de usar, copiar o distribuir el código.
